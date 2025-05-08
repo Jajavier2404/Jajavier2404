@@ -44,8 +44,8 @@ I am an undergraduate Software Engineering student at the Universitaria de Colom
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=Jajavier2404&show_icons=true&theme=algolia&hide_border=true&locale=en)](https://github.com/Elanza-48)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=Jajavier2404&theme=algolia)](https://github.com/Elanza-48)
+[![](https://github-readme-stats.vercel.app/api?username=Jajavier2404&show_icons=true&theme=algolia&hide_border=true&locale=en)](https://github.com/Jajavier2404)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Jajavier2404&theme=algolia)](https://github.com/Jajavier2404)
 </div>
 
 
