@@ -46,6 +46,9 @@ I am an undergraduate Software Engineering student at the Universitaria de Colom
 
 [![](https://github-readme-stats.vercel.app/api?username=Jajavier2404&show_icons=true&theme=algolia&hide_border=true&locale=en)](https://github.com/Jajavier2404)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=Jajavier2404&theme=algolia)](https://github.com/Jajavier2404)
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jajavier2404&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
+</div>
 </div>
 
 
