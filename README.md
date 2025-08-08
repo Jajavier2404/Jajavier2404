@@ -40,10 +40,14 @@ I am an undergraduate Software Engineering student at the Universitaria de Colom
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
 </span>
+<br>
 <b>Proyectos</b>
+
 <p>MovieHub</p>
 <p>EcoRecipe</p>
-<p>Task Manager</p>
+<p>Habit Manager</p>
+<p>Bot-Psicologico whatsApp</p>
+<p>Generador de turnos</p>
 
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
