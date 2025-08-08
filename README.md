@@ -53,12 +53,11 @@ I am an undergraduate Software Engineering student at the Universitaria de Colom
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Albarracin-sg&show_icons=true&theme=react&hide_border=true&locale=en" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albarracin-sg&theme=react&hide_border=true&layout=compact" alt="Top Languages"/>
+  [![](https://github-readme-stats.vercel.app/api?username=Jajavier2404&show_icons=true&theme=nightowl&hide_border=true&locale=en)](https://github.com/Jajavier2404)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jajavier2404&theme=nightowl&hide_border=true&layout=compact" alt="Top Languages"/>
 </div>
 
 
-[![](https://github-readme-stats.vercel.app/api?username=Jajavier2404&show_icons=true&theme=nightowl&hide_border=true&locale=en)](https://github.com/Jajavier2404)
 
 [![](https://github-readme-streak-stats.herokuapp.com/?user=Jajavier2404&theme=nightowl)](https://github.com/Jajavier2404)
 <div align="center">
