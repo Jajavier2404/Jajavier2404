@@ -51,15 +51,14 @@ I am an undergraduate Software Engineering student at the Universitaria de Colom
 
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Jajavier2404&theme=nightowl)](https://github.com/Jajavier2404)
+[![](https://github-readme-stats.vercel.app/api?username=Jajavier2404&show_icons=true&theme=nightowl&hide_border=true&locale=en)](https://github.com/Jajavier2404)
 
 <div align="center">
-  [![](https://github-readme-stats.vercel.app/api?username=Jajavier2404&show_icons=true&theme=nightowl&hide_border=true&locale=en)](https://github.com/Jajavier2404)
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jajavier2404&theme=nightowl&hide_border=true&layout=compact" alt="Top Languages"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jajavier2404&theme=nightowl&hide_border=true&layout=compact" alt="Top Languages"/>
 </div>
 
 
-
-[![](https://github-readme-streak-stats.herokuapp.com/?user=Jajavier2404&theme=nightowl)](https://github.com/Jajavier2404)
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jajavier2404&theme=nightowl&hide_border=true" alt="GitHub Activity Graph"/>
 </div>
