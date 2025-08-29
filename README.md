@@ -16,7 +16,7 @@ I am an undergraduate Software Engineering student at the Universitaria de Colom
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 - Outside tech, 🏀 I love to play basketball, 🎵 listen to music, and 🎹 play the piano.
 
-## My Skills Include
+## Technologies ​​I have worked in
 <h4> Languages </h4>
 <span> 
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
@@ -25,22 +25,14 @@ I am an undergraduate Software Engineering student at the Universitaria de Colom
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge"/>
-</span>
-
-<h4> Frameworks </h4>
-<span>
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge"/>
-</span>
-
-<h4> Other Tools and Technologies </h4>
-<span>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazonwebservices&logoColor=FF9900&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
 </span>
-<br>
+
 <b>Proyectos</b>
 
 <p>MovieHub</p>
