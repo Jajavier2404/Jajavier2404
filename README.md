@@ -42,6 +42,7 @@ I am an undergraduate Software Engineering student at the Universitaria de Colom
 <p>Generador de turnos</p>
 <p>EmotionalBlog</p>
 <p>Pagina Qubik</p>
+<p>OPPS (Terminal)</p>
 
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
