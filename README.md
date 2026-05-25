@@ -139,7 +139,7 @@ I run my own **Ubuntu Server** for personal projects, experiments, and hosting s
   
   <br/><br/>
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jajavier2404&theme=merko&hide_border=true&bg_color=0D1117&color=7E983A&line=577127&point=E3ECCF" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jajavier2404&theme=merko&hide_border=true&bg_color=0D1117&color=7E983A&line=577127&point=F0E8C9" alt="GitHub Activity Graph"/>
 
 </div>
 
