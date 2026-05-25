@@ -37,6 +37,8 @@ I am an undergraduate Software Engineering student at the **Universitaria de Col
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 ### Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -62,7 +64,6 @@ I am an undergraduate Software Engineering student at the **Universitaria de Col
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white"/>
 </p>
 
 ### Data & Infrastructure
@@ -85,11 +86,13 @@ I am an undergraduate Software Engineering student at the **Universitaria de Col
 ### Tools & Platforms
 <p>
   <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Parrot%20OS-2E8E8F?style=for-the-badge&logo=parrot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
 </p>
+
+</div>
 
 ---
 
