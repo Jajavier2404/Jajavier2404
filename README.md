@@ -15,13 +15,13 @@
 
 <p align="center">
   <a href="https://github.com/Jajavier2404">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer+Student;FullStack+Developer;AI+%26+MCP+Enthusiast;Always+learning+new+things&center=true&width=500&height=50&color=52B788&size=22">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer+Student;FullStack+Developer;AI+%26+MCP+Enthusiast;Always+learning+new+things&center=true&width=600&height=50&color=7E983A&size=22">
   </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## About Me
 
 <img alt="kitty" align="right" height="20%" width="20%" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
 
@@ -35,7 +35,7 @@ I am an undergraduate Software Engineering student at the **Universitaria de Col
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -96,11 +96,10 @@ I am an undergraduate Software Engineering student at the **Universitaria de Col
 
 ---
 
-## 📂 Projects
+## Projects
 
 <div align="left">
 
----
 
 ### [MovieHub](https://github.com/Jajavier2404/MovieHub) — JavaScript · React · Node.js
 
@@ -136,20 +135,20 @@ I run my own **Ubuntu Server** for personal projects, experiments, and hosting s
 
 <div align="center">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jajavier2404&theme=merko&background=0D1117&stroke=2D6A4F&ring=52B788&fire=74C69D&currStreakNum=95D5B2&sideNums=95D5B2&currStreakLabel=52B788&sideLabels=52B788&dates=6B7280" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jajavier2404&theme=merko&background=0D1117&stroke=C2CFA9&ring=577127&fire=74C69D&currStreakNum=95D5B2&sideNums=95D5B2&currStreakLabel=52B788&sideLabels=52B788&dates=C2CFA9" alt="GitHub Streak Stats"/>
   
   <br/><br/>
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jajavier2404&theme=merko&hide_border=true&bg_color=0D1117&color=52B788&line=74C69D&point=95D5B2" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jajavier2404&theme=merko&hide_border=true&bg_color=0D1117&color=7E983A&line=577127&point=E3ECCF" alt="GitHub Activity Graph"/>
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jajavier2404&color=52B788&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Jajavier2404&color=7E983A&style=flat-square" alt="Profile Views"/>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=52B788&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=C2CFA9&height=100&section=footer" width="100%"/>
 </div>
