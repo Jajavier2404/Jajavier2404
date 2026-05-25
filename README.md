@@ -2,16 +2,25 @@
   <img src="https://github.com/Jajavier2404/Jajavier2404/blob/main/assets/ChatGPT%20Image%2025%20may%202026%2C%2012_08_01%20p.m..png?raw=true" alt="Javier Gomez Banner" width="100%"/>
 </div>
 
+<img alt="dsmark" align="right" height="20%" width="20%" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
+
 <br/>
+
+<h1 align="center"><b>Javier Gomez</b></h1>
+
+<p align="center">
+  <a href="mailto:javialex2008@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-javialex2008@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
+  </a>
+  <a href="https://github.com/Jajavier2404">
+    <img src="https://img.shields.io/badge/GITHUB-Jajavier2404-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000" alt="GitHub"/>
+  </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/Jajavier2404">
     <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer+Student;FullStack+Developer;AI+%26+MCP+Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50&color=4ADE80">
   </a>
-</p>
-
-<p align="center">
-  <img alt="kitty" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif" width="50">
 </p>
 
 ---
@@ -34,6 +43,7 @@ I am an undergraduate Software Engineering student at the **Universitaria de Col
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -45,6 +55,7 @@ I am an undergraduate Software Engineering student at the **Universitaria de Col
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=grpc&logoColor=white"/>
 </p>
 
 ### Frontend
@@ -84,71 +95,29 @@ I am an undergraduate Software Engineering student at the **Universitaria de Col
 
 ---
 
-## 📂 Featured Projects
+## 📂 Projects
 
-<div align="center">
-
-### 🎬 [MovieHub](https://github.com/Jajavier2404/MovieHub)
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-</p>
-<p><em>A movie discovery platform to explore and find your next favorite film</em></p>
+<div align="left">
 
 ---
 
-### 🌱 [EcoRecipe](https://github.com/Jajavier2404/RecipyCreator)
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-</p>
-<p><em>Sustainable recipe creator focused on eco-friendly cooking and ingredients</em></p>
+### [MovieHub](https://github.com/Jajavier2404/MovieHub) — JavaScript · React · Node.js
+A movie discovery platform to explore and find your next favorite film.
 
 ---
 
-### ✅ [Habit Manager](https://github.com/Jajavier2404/habitTraker)
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-</p>
-<p><em>Track and manage your daily habits to build better routines</em></p>
+### [EcoRecipe](https://github.com/Jajavier2404/RecipyCreator) — JavaScript · React · Node.js
+Sustainable recipe creator focused on eco-friendly cooking and ingredients.
 
 ---
 
-### 🎧 [ListenUp English](https://github.com/Jajavier2404/RealTalk)
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-</p>
-<p><em>English learning platform with interactive listening exercises</em></p>
+### [EmotionalBlog](https://github.com/Jajavier2404/EmotionalBlog) — TypeScript · React · Next.js
+Personal blog to share your daily emotions and experiences.
 
 ---
 
-### 🧠 [EmotionalBlog](https://github.com/Jajavier2404/EmotionalBlog)
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-</p>
-<p><em>Personal blog to share your daily emotions and experiences</em></p>
-
----
-
-### 🖥️ [Terminal OPPS](https://github.com/Jajavier2404/Terminal-OPPS-)
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-</p>
-<p><em>Terminal-based application built with Python for OOP practice</em></p>
-
----
-
-### 🤖 [Bot Psicológico WhatsApp](https://github.com/Jajavier2404/BOT-DOCUMENTADO)
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-</p>
-<p><em>WhatsApp bot for psychological support and mental wellness</em></p>
-
----
-
-### 🎮 [Asteroids Game](https://github.com/Jajavier2404/Asteroids)
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-</p>
-<p><em>Classic Asteroids arcade game built for learning purposes</em></p>
+### [Habit Manager](https://github.com/Jajavier2404/habitTraker) — JavaScript · React · Node.js
+Track and manage your daily habits to build better routines.
 
 </div>
 
@@ -168,49 +137,24 @@ I run my own **Ubuntu Server** for personal projects, experiments, and hosting s
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Jajavier2404&theme=github-dark-green&hide_border=true"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jajavier2404&theme=github-dark-green&hide_border=true" alt="GitHub Streak Stats"/>
-  </picture>
-  
-  <br/><br/>
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Jajavier2404&show_icons=true&theme=merko&hide_border=true&locale=en"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=Jajavier2404&show_icons=true&theme=merko&hide_border=true&locale=en" alt="GitHub Stats"/>
-  </picture>
-  
-  <br/><br/>
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Jajavier2404&theme=merko&hide_border=true&layout=compact"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jajavier2404&theme=merko&hide_border=true&layout=compact" alt="Top Languages"/>
-  </picture>
-  
-  <br/><br/>
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jajavier2404&theme=github-compact&hide_border=true" alt="GitHub Activity Graph"/>
+<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Jajavier2404&theme=merko)](https://github.com/Jajavier2404)
+[![](https://github-readme-stats.vercel.app/api?username=Jajavier2404&show_icons=true&theme=merko&hide_border=true&locale=en)](https://github.com/Jajavier2404)
 
+<div align="center">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jajavier2404&theme=merko&hide_border=true&layout=compact" alt="Top Languages"/>
+</div>
+
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jajavier2404&theme=merko&hide_border=true" alt="GitHub Activity Graph"/>
+</div>
 </div>
 
 ---
 
 <div align="center">
-  
-  ### 💬 Let's Connect!
-  
-  <a href="mailto:javialex2008@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Jajavier2404">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  
-  <br/><br/>
-  
   <img src="https://komarev.com/ghpvc/?username=Jajavier2404&color=10B981&style=flat-square" alt="Profile Views"/>
-  
 </div>
 
 <div align="center">
