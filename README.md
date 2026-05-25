@@ -101,31 +101,31 @@ I am an undergraduate Software Engineering student at the **Universitaria de Col
 <div align="left">
 
 
-### [MovieHub](https://github.com/Jajavier2404/MovieHub) — JavaScript · React · Node.js
+### [MovieHub](https://github.com/Jajavier2404/MovieHub) — *JavaScript · React · Node.js*
 
 A movie discovery platform designed to help users explore and find their next favorite film. The application features an intuitive interface for browsing movies, viewing details, and discovering new releases. Built with modern web technologies to ensure a smooth and responsive user experience.
 
 ---
 
-### [EcoRecipe](https://github.com/Jajavier2404/RecipyCreator) — JavaScript · React · Node.js
+### [EcoRecipe](https://github.com/Jajavier2404/RecipyCreator) — *JavaScript · React · Node.js*
 
 Sustainable recipe creator focused on eco-friendly cooking and ingredients. This project promotes environmentally conscious meal preparation by suggesting recipes that use seasonal, local, and sustainable ingredients. Users can explore various eco-friendly cooking options while reducing their carbon footprint.
 
 ---
 
-### [EmotionalBlog](https://github.com/Jajavier2404/EmotionalBlog) — TypeScript · React · Next.js
+### [EmotionalBlog](https://github.com/Jajavier2404/EmotionalBlog) — *TypeScript · React · Next.js*
 
 Personal blog platform designed to share your daily emotions and experiences. This application provides a safe space for users to express their feelings, track their emotional journey over time, and reflect on their personal growth. Features include mood tracking, journal entries, and emotional analytics.
 
 ---
 
-### [Habit Manager](https://github.com/Jajavier2404/habitTraker) — JavaScript · React · Node.js
+### [Habit Manager](https://github.com/Jajavier2404/habitTraker) — *JavaScript · React · Node.js*
 
 Comprehensive habit tracking application that helps users build and maintain better routines. The app allows you to create custom habits, set daily or weekly goals, track your progress with visual statistics, and receive reminders to stay consistent. Perfect for developing new positive habits and breaking old patterns.
 
 ---
 
-### Self-Hosted Infrastructure — Ubuntu Server · Docker
+### Self-Hosted Infrastructure — *Ubuntu Server · Docker*
 
 I run my own **Ubuntu Server** for personal projects, experiments, and hosting services. This hands-on experience with Linux administration, Docker containers, and server management complements my development skills. The server hosts various applications and services, providing me with practical knowledge of system administration, networking, and deployment workflows.
 
