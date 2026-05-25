@@ -23,7 +23,7 @@
 
 ## About Me
 
-<img alt="kitty" align="right" height="20%" width="20%" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
+<img alt="kitty" align="right" height="10%" width="20%" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
 
 I am an undergraduate Software Engineering student at the **Universitaria de Colombia**. I specialize in building modern web applications with clean code and intelligent systems.
 
@@ -150,5 +150,5 @@ I run my own **Ubuntu Server** for personal projects, experiments, and hosting s
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=C2CFA9&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7E983A&height=100&section=footer" width="100%"/>
 </div>
