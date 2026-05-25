@@ -6,16 +6,16 @@
 
 <p align="center">
   <a href="mailto:javialex2008@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-javialex2008@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
+    <img src="https://img.shields.io/badge/EMAIL-javialex2008@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=555555" alt="Email"/>
   </a>
   <a href="https://github.com/Jajavier2404">
-    <img src="https://img.shields.io/badge/GITHUB-Jajavier2404-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GITHUB-Jajavier2404-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=555555" alt="GitHub"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Jajavier2404">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=**Software+Engineer+Student**;**FullStack+Developer**;**AI+%26+MCP+Enthusiast**;**Always+learning+new+things**&center=true&width=500&height=50&color=4ADE80&size=22">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer+Student;FullStack+Developer;AI+%26+MCP+Enthusiast;Always+learning+new+things&center=true&width=500&height=50&color=4ADE80&size=22">
   </a>
 </p>
 
@@ -123,7 +123,7 @@ Comprehensive habit tracking application that helps users build and maintain bet
 
 ---
 
-### 🏠 Self-Hosted Infrastructure — Ubuntu Server · Docker
+### Self-Hosted Infrastructure — Ubuntu Server · Docker
 
 I run my own **Ubuntu Server** for personal projects, experiments, and hosting services. This hands-on experience with Linux administration, Docker containers, and server management complements my development skills. The server hosts various applications and services, providing me with practical knowledge of system administration, networking, and deployment workflows.
 
@@ -133,28 +133,20 @@ I run my own **Ubuntu Server** for personal projects, experiments, and hosting s
 
 <div align="center">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jajavier2404&theme=merko&background=0D1117&stroke=10B981&ring=4ADE80&fire=22C55E&currStreakNum=4ADE80&sideNums=4ADE80&currStreakLabel=10B981&sideLabels=10B981&dates=6B7280" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jajavier2404&theme=merko&background=0D1117&stroke=1B4D3E&ring=2D6A4F&fire=40916C&currStreakNum=52B788&sideNums=52B788&currStreakLabel=2D6A4F&sideLabels=2D6A4F&dates=6B7280" alt="GitHub Streak Stats"/>
   
   <br/><br/>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=Jajavier2404&show_icons=true&theme=merko&hide_border=true&bg_color=0D1117&title_color=4ADE80&icon_color=10B981&text_color=E5E7EB&locale=en" alt="GitHub Stats"/>
-  
-  <br/><br/>
-  
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jajavier2404&theme=merko&hide_border=true&bg_color=0D1117&title_color=4ADE80&text_color=E5E7EB&layout=compact" alt="Top Languages"/>
-  
-  <br/><br/>
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jajavier2404&theme=merko&hide_border=true&bg_color=0D1117&color=4ADE80&line=10B981&point=22C55E" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jajavier2404&theme=merko&hide_border=true&bg_color=0D1117&color=2D6A4F&line=40916C&point=52B788" alt="GitHub Activity Graph"/>
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jajavier2404&color=10B981&style=flat-square" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Jajavier2404&color=1B4D3E&style=flat-square" alt="Profile Views"/>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1B4D3E&height=100&section=footer" width="100%"/>
 </div>
