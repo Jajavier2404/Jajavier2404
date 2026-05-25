@@ -2,11 +2,7 @@
   <img src="https://github.com/Jajavier2404/Jajavier2404/blob/main/assets/ChatGPT%20Image%2025%20may%202026%2C%2012_08_01%20p.m..png?raw=true" alt="Javier Gomez Banner" width="100%"/>
 </div>
 
-<img alt="dsmark" align="right" height="20%" width="20%" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
-
 <br/>
-
-<h1 align="center"><b>Javier Gomez</b></h1>
 
 <p align="center">
   <a href="mailto:javialex2008@gmail.com">
@@ -19,13 +15,15 @@
 
 <p align="center">
   <a href="https://github.com/Jajavier2404">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer+Student;FullStack+Developer;AI+%26+MCP+Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50&color=4ADE80">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=**Software+Engineer+Student**;**FullStack+Developer**;**AI+%26+MCP+Enthusiast**;**Always+learning+new+things**&center=true&width=500&height=50&color=4ADE80&size=22">
   </a>
 </p>
 
 ---
 
 ## 🚀 About Me
+
+<img alt="kitty" align="right" height="20%" width="20%" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
 
 I am an undergraduate Software Engineering student at the **Universitaria de Colombia**. I specialize in building modern web applications with clean code and intelligent systems.
 
@@ -102,53 +100,53 @@ I am an undergraduate Software Engineering student at the **Universitaria de Col
 ---
 
 ### [MovieHub](https://github.com/Jajavier2404/MovieHub) — JavaScript · React · Node.js
-A movie discovery platform to explore and find your next favorite film.
+
+A movie discovery platform designed to help users explore and find their next favorite film. The application features an intuitive interface for browsing movies, viewing details, and discovering new releases. Built with modern web technologies to ensure a smooth and responsive user experience.
 
 ---
 
 ### [EcoRecipe](https://github.com/Jajavier2404/RecipyCreator) — JavaScript · React · Node.js
-Sustainable recipe creator focused on eco-friendly cooking and ingredients.
+
+Sustainable recipe creator focused on eco-friendly cooking and ingredients. This project promotes environmentally conscious meal preparation by suggesting recipes that use seasonal, local, and sustainable ingredients. Users can explore various eco-friendly cooking options while reducing their carbon footprint.
 
 ---
 
 ### [EmotionalBlog](https://github.com/Jajavier2404/EmotionalBlog) — TypeScript · React · Next.js
-Personal blog to share your daily emotions and experiences.
+
+Personal blog platform designed to share your daily emotions and experiences. This application provides a safe space for users to express their feelings, track their emotional journey over time, and reflect on their personal growth. Features include mood tracking, journal entries, and emotional analytics.
 
 ---
 
 ### [Habit Manager](https://github.com/Jajavier2404/habitTraker) — JavaScript · React · Node.js
-Track and manage your daily habits to build better routines.
+
+Comprehensive habit tracking application that helps users build and maintain better routines. The app allows you to create custom habits, set daily or weekly goals, track your progress with visual statistics, and receive reminders to stay consistent. Perfect for developing new positive habits and breaking old patterns.
+
+---
+
+### 🏠 Self-Hosted Infrastructure — Ubuntu Server · Docker
+
+I run my own **Ubuntu Server** for personal projects, experiments, and hosting services. This hands-on experience with Linux administration, Docker containers, and server management complements my development skills. The server hosts various applications and services, providing me with practical knowledge of system administration, networking, and deployment workflows.
 
 </div>
 
 ---
 
-## 🏠 Self-Hosted Infrastructure
-
-<p>
-  <img src="https://img.shields.io/badge/Ubuntu%20Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Self%20Hosted-10B981?style=for-the-badge&logo=server&logoColor=white"/>
-</p>
-
-I run my own **Ubuntu Server** for personal projects, experiments, and hosting services. This hands-on experience with Linux administration, Docker containers, and server management complements my development skills.
-
----
-
-## 📊 GitHub Analytics
-
 <div align="center">
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
-[![](https://github-readme-streak-stats.herokuapp.com/?user=Jajavier2404&theme=merko)](https://github.com/Jajavier2404)
-[![](https://github-readme-stats.vercel.app/api?username=Jajavier2404&show_icons=true&theme=merko&hide_border=true&locale=en)](https://github.com/Jajavier2404)
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jajavier2404&theme=merko&background=0D1117&stroke=10B981&ring=4ADE80&fire=22C55E&currStreakNum=4ADE80&sideNums=4ADE80&currStreakLabel=10B981&sideLabels=10B981&dates=6B7280" alt="GitHub Streak Stats"/>
+  
+  <br/><br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Jajavier2404&show_icons=true&theme=merko&hide_border=true&bg_color=0D1117&title_color=4ADE80&icon_color=10B981&text_color=E5E7EB&locale=en" alt="GitHub Stats"/>
+  
+  <br/><br/>
+  
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jajavier2404&theme=merko&hide_border=true&bg_color=0D1117&title_color=4ADE80&text_color=E5E7EB&layout=compact" alt="Top Languages"/>
+  
+  <br/><br/>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jajavier2404&theme=merko&hide_border=true&bg_color=0D1117&color=4ADE80&line=10B981&point=22C55E" alt="GitHub Activity Graph"/>
 
-<div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jajavier2404&theme=merko&hide_border=true&layout=compact" alt="Top Languages"/>
-</div>
-
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jajavier2404&theme=merko&hide_border=true" alt="GitHub Activity Graph"/>
-</div>
 </div>
 
 ---
