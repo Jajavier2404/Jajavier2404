@@ -30,29 +30,21 @@ I am an undergraduate Software Engineering student at the **Universitaria de Col
 
 ## 🛠️ Tech Stack
 
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
 ### Backend & Architecture
 <p>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-</p>
-
-### Data & Infrastructure
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-</p>
-
-### AI & MCP
-<p>
-  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Anthropic%20API-D4A574?style=for-the-badge&logo=anthropic&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MCP%20Orchestration-10B981?style=for-the-badge&logo=protocols&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
 </p>
 
 ### Frontend
@@ -64,15 +56,29 @@ I am an undergraduate Software Engineering student at the **Universitaria de Col
   <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white"/>
 </p>
 
-### Languages & Tools
+### Data & Infrastructure
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+</p>
+
+### AI & MCP
+<p>
+  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Anthropic%20API-D4A574?style=for-the-badge&logo=anthropic&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MCP%20Orchestration-10B981?style=for-the-badge&logo=protocols&logoColor=white"/>
+</p>
+
+### Tools & Platforms
+<p>
   <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
 </p>
 
@@ -163,19 +169,28 @@ I run my own **Ubuntu Server** for personal projects, experiments, and hosting s
 
 <div align="center">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jajavier2404&theme=merko&hide_border=true&background=0D1117&stroke=10B981&ring=4ADE80&fire=22C55E&currStreakNum=4ADE80&sideNums=4ADE80&currStreakLabel=10B981&sideLabels=10B981&dates=6B7280" alt="GitHub Streak Stats"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Jajavier2404&theme=github-dark-green&hide_border=true"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jajavier2404&theme=github-dark-green&hide_border=true" alt="GitHub Streak Stats"/>
+  </picture>
   
   <br/><br/>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=Jajavier2404&show_icons=true&theme=merko&hide_border=true&bg_color=0D1117&title_color=4ADE80&icon_color=10B981&text_color=E5E7EB&locale=en" alt="GitHub Stats"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Jajavier2404&show_icons=true&theme=merko&hide_border=true&locale=en"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Jajavier2404&show_icons=true&theme=merko&hide_border=true&locale=en" alt="GitHub Stats"/>
+  </picture>
   
   <br/><br/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jajavier2404&theme=merko&hide_border=true&bg_color=0D1117&title_color=4ADE80&text_color=E5E7EB&layout=compact" alt="Top Languages"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Jajavier2404&theme=merko&hide_border=true&layout=compact"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jajavier2404&theme=merko&hide_border=true&layout=compact" alt="Top Languages"/>
+  </picture>
   
   <br/><br/>
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jajavier2404&theme=merko&hide_border=true&bg_color=0D1117&color=4ADE80&line=10B981&point=22C55E" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jajavier2404&theme=github-compact&hide_border=true" alt="GitHub Activity Graph"/>
 
 </div>
 
