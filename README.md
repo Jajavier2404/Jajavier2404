@@ -107,7 +107,7 @@ A movie discovery platform designed to help users explore and find their next fa
 
 ---
 
-### [EcoRecipe](https://github.com/Jajavier2404/RecipyCreator) — *JavaScript · React · Node.js*
+### [EcoRecipe](https://github.com/Jajavier2404/RecipyCreator) — *JavaScript · React · Node.js · OpenAi*
 
 Sustainable recipe creator focused on eco-friendly cooking and ingredients. This project promotes environmentally conscious meal preparation by suggesting recipes that use seasonal, local, and sustainable ingredients. Users can explore various eco-friendly cooking options while reducing their carbon footprint.
 
